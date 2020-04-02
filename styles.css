@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    margin: 280px 500px 0 500px;
+    text-align: center;
+}
+
+.word {
+    text-align: center;
+}
+
+#btn {
+    padding: 10px;
+    margin: 30px 500px 0 600px;
+}
